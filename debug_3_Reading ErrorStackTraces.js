@@ -67,12 +67,13 @@ SyntaxError: Unexpected token ;
 ------------------------------------------------------------------
 
 From what file was this error thrown?
-1 - Answer:
+1 - Answer: script.js
 On what line of that file was this error thrown?
-2 - Answer:
+2 - Answer: 5
 What type of error was thrown in this stack trace?
-3 - Answer:
+3 - Answer: SyntaxError
 What is the description of the error in this stack trace?
-4 - Answer:
+4 - Answer: Unexpected token
+
 
 */
