@@ -38,14 +38,14 @@ Can you find the typo on line 8? What type of error gets thrown when a line of c
 
 myVariable++;
 // 1 - What type of error will be thrown on the line above:
-
+ReferenceError
 const myString = 42;
 myString.substring(0);
 // 2 - What type of error will be thrown on the line above:
-
+TypeError
 const myRandomNumber; = Math.random();
 // 3 - What type of error will be thrown on the line above:
-
+SyntaxError
 =======================================================================================================================
 
 The example below shows this for two methods that would otherwise fail with similar errors (doFailSomeWay() and doFailAnotherWay()):
