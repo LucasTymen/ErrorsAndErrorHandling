@@ -46,6 +46,7 @@ TypeError
 const myRandomNumber; = Math.random();
 // 3 - What type of error will be thrown on the line above:
 SyntaxError
+
 =======================================================================================================================
 
 The example below shows this for two methods that would otherwise fail with similar errors (doFailSomeWay() and doFailAnotherWay()):
